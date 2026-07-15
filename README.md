@@ -8,6 +8,8 @@
 
 A curated guide to leading **SaaS/cloud-hosted Ad Automation Platforms** (like Laurence, Quartile, Adspert, Perpetua, Skai (Formerly Kenshoo), Pacvue, Buy Box Experts, Adzooma, Teikametrics, Channable, Feedonomics) and their **open-source/self-hosted equivalents**. 
 
+**SEO Keywords & Focus**: Amazon PPC automation, Google Ads optimization, automated bidding software, marketplace advertising tools, open-source ad scripts, e-commerce marketing automation, ROAS optimization algorithms.
+
 **Open-source solutions are emphasized** for customization, cost savings, and building your own ad management and optimization tools.
 
 ---
