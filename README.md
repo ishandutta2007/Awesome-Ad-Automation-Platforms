@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Awesome Ad Automation Platforms Banner" width="100%" />
 </p>
 
-## Top Ad Automation Platforms & Open-Source Alternatives
+## 🚀 Top Ad Automation Platforms & Open-Source Alternatives
 
 A curated guide to leading **SaaS/cloud-hosted Ad Automation Platforms** (like Laurence, Quartile, Adspert, Perpetua, Skai (Formerly Kenshoo), Pacvue, Buy Box Experts, Adzooma, Teikametrics, Channable, Feedonomics) and their **open-source/self-hosted equivalents**. 
 
@@ -12,7 +12,7 @@ A curated guide to leading **SaaS/cloud-hosted Ad Automation Platforms** (like L
 
 ---
 
-## SaaS / Cloud-Hosted Ad Automation Platforms
+## ☁️ SaaS / Cloud-Hosted Ad Automation Platforms
 
 Popular platforms for automating PPC, marketplace, and e-commerce advertising with AI bidding, campaign management, and performance optimization.
 
@@ -36,7 +36,7 @@ These tools use AI for bid management, keyword optimization, and cross-platform 
 
 ---
 
-## Open-Source / Self-Hosted Alternatives
+## 🛠️ Open-Source / Self-Hosted Alternatives
 
 Open-source options focus on custom scripts, self-hosted dashboards, and automation frameworks for ad data processing and optimization.
 
@@ -57,7 +57,7 @@ Open-source options focus on custom scripts, self-hosted dashboards, and automat
 
 ---
 
-## Comparison
+## ⚖️ Comparison
 
 | Aspect              | SaaS Platforms                        | Open-Source / Self-Hosted                  |
 |---------------------|---------------------------------------|--------------------------------------------|
@@ -69,7 +69,7 @@ Open-source options focus on custom scripts, self-hosted dashboards, and automat
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
 1. Identify key platforms (Google, Amazon, Meta, etc.).
 2. Use official APIs and **Airflow** for orchestration.
@@ -77,7 +77,7 @@ Open-source options focus on custom scripts, self-hosted dashboards, and automat
 4. Add ML for bidding/optimization as needed.
 5. Deploy securely and monitor performance.
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to submit PRs to expand this list with more projects, tools, or comparisons!
 
