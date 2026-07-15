@@ -1,4 +1,9 @@
 # Awesome-Ad-Automation-Platforms
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Ad Automation Platforms Banner" width="100%" />
+</p>
+
 ## Top Ad Automation Platforms & Open-Source Alternatives
 
 A curated guide to leading **SaaS/cloud-hosted Ad Automation Platforms** (like Laurence, Quartile, Adspert, Perpetua, Skai (Formerly Kenshoo), Pacvue, Buy Box Experts, Adzooma, Teikametrics, Channable, Feedonomics) and their **open-source/self-hosted equivalents**. 
