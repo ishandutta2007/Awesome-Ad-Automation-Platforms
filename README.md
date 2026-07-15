@@ -12,12 +12,20 @@ A curated guide to leading **SaaS/cloud-hosted Ad Automation Platforms** (like L
 Popular platforms for automating PPC, marketplace, and e-commerce advertising with AI bidding, campaign management, and performance optimization.
 
 ### Leading Options
-- **[Laurence](https://laurence.com)**, **[Quartile](https://quartile.com)** — AI-driven Amazon and marketplace ad optimization.
-- **[Adspert](https://adspert.com)**, **[Perpetua](https://perpetua.io)** — Automated bidding and campaign management for e-commerce.
-- **[Skai (Formerly Kenshoo)](https://skai.io)** — Enterprise search and social ad management.
-- **[Pacvue](https://pacvue.com)** — Retail media and marketplace advertising platform.
-- **[Buy Box Experts](https://buyboxexperts.com)**, **[Adzooma](https://adzooma.com)** — Amazon and Google Ads automation.
-- **[Teikametrics](https://teikametrics.com)**, **[Channable](https://channable.com)**, **[Feedonomics](https://feedonomics.com)** — Feed management and multi-channel ad optimization.
+
+| Platform | Description | Pricing | Free Tier Limit |
+|----------|-------------|---------|-----------------|
+| **[Laurence](https://laurence.com)** | AI-driven Amazon/marketplace ad optimization. | Custom | No free tier |
+| **[Quartile](https://quartile.com)** | AI-driven Amazon/marketplace ad optimization. | Custom (Quote-based) | No free tier |
+| **[Adspert](https://adspert.com)** | Automated bidding and campaign management. | Custom | No free tier |
+| **[Perpetua](https://perpetua.io)** | Automated bidding and campaign management. | Starts ~$250/mo + % of ad spend | No free tier |
+| **[Skai (Formerly Kenshoo)](https://skai.io)** | Enterprise search and social ad management. | Custom / Enterprise | No free tier |
+| **[Pacvue](https://pacvue.com)** | Retail media and marketplace advertising platform. | Custom / Enterprise | No free tier |
+| **[Buy Box Experts](https://buyboxexperts.com)** | Amazon and Google Ads automation agency. | Custom | No free tier |
+| **[Adzooma](https://adzooma.com)** | Amazon and Google Ads automation. | Freemium / Paid plans | Essential features free for 1 account |
+| **[Teikametrics](https://teikametrics.com)** | Multi-channel ad optimization. | Free / % of ad spend | Free for sellers <$10k/mo revenue |
+| **[Channable](https://channable.com)** | Feed management and multi-channel ad optimization. | Starts ~$39/mo | No free tier (Free Trial available) |
+| **[Feedonomics](https://feedonomics.com)** | Feed management and multi-channel ad optimization. | Custom | No free tier |
 
 These tools use AI for bid management, keyword optimization, and cross-platform campaign scaling.
 
